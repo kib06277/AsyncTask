@@ -10,7 +10,7 @@ AsyncTask 多線直行
 
 參考：http://givemepass.blogspot.com/2015/11/asynctask_24.html
 
-# AsyncTaskDemo
+# AsyncTaskDemo(內部類)
 
 AsyncTask 自訂義爬網頁內容
 
